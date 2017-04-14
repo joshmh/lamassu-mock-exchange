@@ -1,0 +1,9 @@
+{
+  "name": "lamassu-mock-exchange",
+  "version": "1.0.0",
+  "description": "A mock plugin to test exchange functionality for lamassu-server",
+  "main": "index.js",
+  "repository": "git@github.com:joshmh/lamassu-mock-exchange.git",
+  "author": "Josh Harvey <josh@lamassu.is>",
+  "license": "Unlicense"
+}
